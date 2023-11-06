@@ -16,17 +16,17 @@ Created for [Timasomo 2023](https://tildes.net/~creative.timasomo/1bvk/timasomo_
 
 ## Getting set up
 
-If you're familiar with Python, `pip install -r requirements.txt` should get you what you need but you already knew that.
+This program is available as a Python script. If you're comfortable using Python and you know your way around the command line, `pip install -r requirements.txt` should get you what you need, and then you can run YLINAT using `python3 ylinat.py`.
 
 > On Linux, I found that I also needed to install the libxcb-cursor0 library. YMMV.
 
-If you're pretty sure a python is a kind of snake, don't worry: there are ready-to-run binaries for Windows and Mac available as well.
+If you're pretty sure a python is a kind of snake, don't worry: there are ready-to-run programs compiled for Windows, Mac, and Linux available on the [Releases page](https://github.com/Areldyb/ylinat/releases). Just download the .zip for your operating system, unzip it, and you should be good to go.
 
-> Well, _almost_ ready to run: modern operating systems are skeptical of new programs from unknown developers.
+> Well, _almost_ good to go: most modern operating systems are skeptical of new programs from unknown developers.
 > * On Windows, SmartScreen is likely to complain the first time you run it, and you'll need to give it permission to run.
 > * On Mac, you'll probably be prevented from running the app until you control-click on it, then click "Open". It should work normally after that.
 > 
-> If any of that sketches you out too much, good. My day job is in infosec; please don't make a habit of creating security exceptions for random bits of code you downloaded from the internet.
+> If any of that sketches you out too much, that's a good instinct to have. My day job is in infosec; please don't make a habit of creating security exceptions for random bits of code you downloaded from the internet.
 
 ## Why would anyone want this?
 
